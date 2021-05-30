@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 # import requests_html for rendering javascript pages as HTML
 from requests_html import HTMLSession
-#test
+#
 # BeautifulSoup for parsing HTML rendered from requests_html
 
 session = HTMLSession()
